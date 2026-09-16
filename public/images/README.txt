@@ -1,0 +1,1 @@
+Replace logo.svg and add your real company/product images here. Product image paths are managed through the admin Product CMS.

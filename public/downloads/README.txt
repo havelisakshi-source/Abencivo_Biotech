@@ -1,0 +1,1 @@
+Put your verified company brochure, product catalogue and other PDFs in this folder. Update the paths in src/config.js or the relevant page.
