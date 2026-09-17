@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
@@ -16,3 +17,8 @@ export default defineConfig({
     }
   }
 })
+=======
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+export default defineConfig({ plugins:[react()], server:{ port:5173 } });
+>>>>>>> 5e0fa988ae7ac3d502c96bd3776bf82de3ac9eb3
