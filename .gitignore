@@ -1,5 +1,4 @@
 node_modules/
-<<<<<<< HEAD
 dist/
 .env
 *.log
@@ -7,12 +6,3 @@ uploads/
 *.sqlite
 *.db
 .DS_Store
-=======
-.env
-.env.*
-dist/
-build/
-.vite/
-__pycache__/
-*.pyc
->>>>>>> 5e0fa988ae7ac3d502c96bd3776bf82de3ac9eb3
