@@ -18,4 +18,4 @@ export const COMPANY = {
   }
 };
 
-export const API_BASE = "http://localhost:4000/api";
+export const API_BASE = "https://abencivobiotech-production.up.railway.app/api";
